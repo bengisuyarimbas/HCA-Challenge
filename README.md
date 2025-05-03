@@ -1,5 +1,6 @@
 # HCA-Challenge
 Overview
+
 During Hurricane Helene, HCA deployed 42 Response Teams and 572 colleagues across Florida and Georgia. This demonstrated the importance of disaster-ready response teams in patient rescue, resource accessibility, and overall preparedness. Our solution is an AI-chatbot-supported mobile application designed to provide employees with real-time access to resource information across HCA locations. Additionally, a preparedness booklet will offer actionable guidance on disaster response measures.
 
 Tech Stack
@@ -18,13 +19,12 @@ Hurricane Knowledge Base (HurricaneKnowledgebase.xlsx): A curated dataset of hur
 
 Chatbot deployed at: https://huggingface.co/spaces/Bengisuu/HCA_Chatbot?logs=container 
 To test it, try asking ask these questions: "Who is the supervisor at HCA Houston Conroe Hospital?" , "What should I include in a hurricane emergency kit?", "Find me someone who's position is Supv Laboratory in GeorgeTown, TX."
-
-Mobile Application Layout
-![navigate1](https://github.com/user-attachments/assets/4c5bf75b-36fc-4ab9-86d6-bff0ce44fad1)![Screenshot 2025-02-19 124936](https://github.com/user-attachments/assets/2bf97f7d-b674-43bf-a9f3-4d8542e1ca80)
-
-
-![3Navigate](https://github.com/user-attachments/assets/7a8fc399-e11f-4bcb-85c0-9ccbcf9cae93)
 ![Screenshot 2025-05-02 185822](https://github.com/user-attachments/assets/9c821120-5ca4-4aa5-92b8-3604ee232996)
+Mobile Application Layout
+![navigate1](https://github.com/user-attachments/assets/4c5bf75b-36fc-4ab9-86d6-bff0ce44fad1)![Screenshot 2025-02-19 124936](https://github.com/user-attachments/assets/2bf97f7d-b674-43bf-a9f3-4d8542e1ca80)![3Navigate](https://github.com/user-attachments/assets/7a8fc399-e11f-4bcb-85c0-9ccbcf9cae93)
+
+
+
 
 
 
