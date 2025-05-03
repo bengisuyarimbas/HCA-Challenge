@@ -1,0 +1,6 @@
+transformers
+pandas
+openpyxl
+streamlit
+torch
+fuzzywuzzy
