@@ -17,6 +17,11 @@ Employee Data (deidentified_hca_employees.csv): Includes employee details, locat
  This was used to feed the chatbot for whenever a user asks for specific information about other employees in different locations. 
 Hurricane Knowledge Base (HurricaneKnowledgebase.xlsx): A curated dataset of hurricane-related Q&A. Knowledge base is limited to hurricanes and natural disasters as a demo was built, and a sample base enabled quick deployment and testing.
 
+Features: 
+Real-time response using custom knowledge base
+Deployed via Hugging Face Spaces
+NLP techniques for intent detection or question answering
+
 Chatbot deployed at: https://huggingface.co/spaces/Bengisuu/HCA_Chatbot?logs=container 
 To test it, try asking ask these questions: "Who is the supervisor at HCA Houston Conroe Hospital?" , "What should I include in a hurricane emergency kit?", "Find me someone who's position is Supv Laboratory in GeorgeTown, TX."
 ![Screenshot 2025-05-02 185822](https://github.com/user-attachments/assets/9c821120-5ca4-4aa5-92b8-3604ee232996)
